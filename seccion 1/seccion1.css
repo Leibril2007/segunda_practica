@@ -1,3 +1,23 @@
 .seccion1{
-    background-color: gray;
+    padding: 1rem 1rem;
+}
+
+.titS1{
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.hijS1{
+    margin-top: 0.8rem;
+    width: 100%;
+    height: 7rem;
+    border: 2px solid black;
+    border-radius: 1rem; 
+
+    background-color: lightseagreen;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem;
 }
